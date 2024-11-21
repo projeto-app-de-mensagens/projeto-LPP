@@ -37,5 +37,5 @@ Tecnologias Utilizadas
 
 Contribuições
 
-Mauricio Gomes Rocha - 202107030
+Mauricio Gomes Rocha
 Pedro Luna
