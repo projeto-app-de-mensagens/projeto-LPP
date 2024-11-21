@@ -36,6 +36,5 @@ Tecnologias Utilizadas
         json: Manipulação de dados estruturados.
 
 Contribuições
-
 Mauricio Gomes Rocha
 Pedro Luna
