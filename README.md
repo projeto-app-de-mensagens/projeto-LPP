@@ -34,7 +34,3 @@ Tecnologias Utilizadas
         socket: Comunicação em rede (TCP/UDP).
         threading: Gerenciamento de conexões simultâneas.
         json: Manipulação de dados estruturados.
-
-Contribuições
-Mauricio Gomes Rocha
-Pedro Luna
